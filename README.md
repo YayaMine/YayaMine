@@ -15,7 +15,7 @@
   - Backend: **Laravel, REST API**
   - Design: **Figma, Adobe XD, Photoshop, Illustrator**
 - 🧪 Currently working on image classification projects with **OpenCV + Python**
-- 📧 Reach me at: `2315354067@pnb.ac.id`
+- 📧 Reach me at: `cahyafajarpianto@gmail.com`
 
 ---
 
