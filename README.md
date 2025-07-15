@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Fajar Pianto 👋</h1>
-<p align="center">Frontend & Backend Developer | UI/UX Designer | API Enthusiast</p>
+<p align="center">Frontend & Backend Developer |Mobile Developer | UI/UX Designer | API Enthusiast</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YayaMine&label=Profile%20views&color=0e75b6&style=flat" alt="YayaMine" />
@@ -55,7 +55,7 @@
 ### 🔗 Connect With Me
 
 <p>
-  <a href="mailto:2315354067@pnb.ac.id"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:cahyafajarpianto@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/fajarpianto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/YayaMine"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white"></a>
 </p>
