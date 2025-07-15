@@ -48,12 +48,7 @@
 
 ---
 
-### 🧩 Featured Projects
 
-- 🔧 **[mvc-fajar](https://github.com/YayaMine/mvc-fajar)** - MVC Framework in PHP
-- 📱 **[RestoDomangFe](https://github.com/YayaMine/RestoDomangFe)** - Frontend for Restaurant App (ReactJS)
-- 🛠️ **[RestoDomangBe](https://github.com/YayaMine/RestoDomangBe)** - Backend Laravel for Restaurant System
-- 🎨 **[bailbliss](https://github.com/YayaMine/bailbliss)** - UI Design Web Apps
 
 ---
 
